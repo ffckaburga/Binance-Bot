@@ -1,0 +1,400 @@
+2023-06-09 00:24:48,482 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 00:24:48,910 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-06-09 00:24:48,916 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 00:24:49,255 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1686259488914&signature=2975471d98dc11c0dc00f76597a792fbb57244c187ae0c113eb2faf47e2b0ab3 HTTP/1.1" 200 None
+2023-06-09 00:24:49,258 INFO :: Binance Futures Client successfully initialized
+2023-06-09 00:24:50,471 INFO :: Websocket connected
+2023-06-09 00:24:50,471 INFO :: Binance connection opened
+2023-06-09 00:24:50,471 INFO :: Binance: subscribing to: xrpusdt@bookTicker
+2023-06-09 00:25:59,750 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 00:26:00,668 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-06-09 00:26:00,674 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 00:26:01,007 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1686259560673&signature=76940ab5ca6abd7718dbde365dcba64760c5bbf1d68b2a01d29e9a570adf8fa3 HTTP/1.1" 200 None
+2023-06-09 00:26:01,010 INFO :: Binance Futures Client successfully initialized
+2023-06-09 00:26:02,249 INFO :: Websocket connected
+2023-06-09 00:26:02,249 INFO :: Binance connection opened
+2023-06-09 00:26:02,249 INFO :: Binance: subscribing to: xrpusdt@bookTicker
+2023-06-09 00:26:38,799 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-06-09 00:26:38,801 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 00:26:39,689 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/ticker/bookTicker?symbol=BTCUSDT HTTP/1.1" 200 None
+2023-06-09 00:26:47,232 INFO :: Binance: subscribing to: btcbusd@bookTicker
+2023-06-09 00:26:47,233 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 00:26:47,564 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/ticker/bookTicker?symbol=BTCBUSD HTTP/1.1" 200 None
+2023-06-09 00:27:15,053 ERROR :: error from callback <bound method BinanceClient._on_close of <Binance.BinanceClient object at 0x000001DF6CF72090>>: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 00:27:15,054 ERROR :: Binance connection error: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 00:27:51,154 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 00:27:52,048 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-06-09 00:27:52,054 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 00:27:52,858 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1686259672052&signature=74c05164af2739b19aadd2b2fae8190c1a4a237d398ab350bd5e32631458b4f0 HTTP/1.1" 200 None
+2023-06-09 00:27:52,860 INFO :: Binance Futures Client successfully initialized
+2023-06-09 00:27:54,073 INFO :: Websocket connected
+2023-06-09 00:27:54,073 INFO :: Binance connection opened
+2023-06-09 00:27:54,073 INFO :: Binance: subscribing to: xrpusdt@bookTicker
+2023-06-09 00:28:15,124 ERROR :: error from callback <bound method BinanceClient._on_close of <Binance.BinanceClient object at 0x0000020122FDB5D0>>: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 00:28:15,125 ERROR :: Binance connection error: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 00:28:54,259 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 00:28:55,177 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-06-09 00:28:55,182 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 00:28:55,986 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1686259735181&signature=88fd9f7a9b9eb179c899621758fab6bfd0601fa622dcec8f3fff42f0699134c6 HTTP/1.1" 200 None
+2023-06-09 00:28:55,989 INFO :: Binance Futures Client successfully initialized
+2023-06-09 00:28:57,249 INFO :: Websocket connected
+2023-06-09 00:28:57,249 INFO :: Binance connection opened
+2023-06-09 00:28:57,250 INFO :: Binance: subscribing to: xrpusdt@bookTicker
+2023-06-09 00:29:47,841 ERROR :: error from callback <bound method BinanceClient._on_close of <Binance.BinanceClient object at 0x00000223FFA72A50>>: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 00:29:47,841 ERROR :: Binance connection error: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 00:33:04,607 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 00:33:05,503 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-06-09 00:33:05,509 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 00:33:06,305 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1686259985507&signature=5d0b03d48ea9596dfc7cacc77193861f010f3805216e47fef9df2ff65d45304a HTTP/1.1" 200 None
+2023-06-09 00:33:06,308 INFO :: Binance Futures Client successfully initialized
+2023-06-09 00:33:07,553 INFO :: Websocket connected
+2023-06-09 00:33:07,553 INFO :: Binance connection opened
+2023-06-09 00:33:07,553 INFO :: Binance: subscribing to: xrpusdt@bookTicker
+2023-06-09 00:35:53,034 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 00:35:53,471 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-06-09 00:35:53,477 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 00:35:54,277 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1686260153475&signature=37d97da4842de5bcd404a2776e016917225392d81063bf1de490c399ab92f7ea HTTP/1.1" 200 None
+2023-06-09 00:35:54,280 INFO :: Binance Futures Client successfully initialized
+2023-06-09 00:35:55,559 INFO :: Websocket connected
+2023-06-09 00:35:55,559 INFO :: Binance connection opened
+2023-06-09 00:35:55,559 INFO :: Binance: subscribing to: xrpusdt@bookTicker
+2023-06-09 00:37:28,073 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 00:37:28,964 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-06-09 00:37:28,970 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 00:37:29,770 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1686260248969&signature=fe8a137b68d6b5d9ac12de3758e43ae7b04dee260863024bd7672fa1e0806b9b HTTP/1.1" 200 None
+2023-06-09 00:37:29,775 INFO :: Binance Futures Client successfully initialized
+2023-06-09 00:37:31,029 INFO :: Websocket connected
+2023-06-09 00:37:31,029 INFO :: Binance connection opened
+2023-06-09 00:37:31,029 INFO :: Binance: subscribing to: xrpusdt@bookTicker
+2023-06-09 00:39:07,362 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 00:39:08,253 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-06-09 00:39:08,260 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 00:39:09,058 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1686260348259&signature=cb2fa687a17689a10d47b1d8270631a00b5d2b99be62fab6e5f1147a09dce8df HTTP/1.1" 200 None
+2023-06-09 00:39:09,064 INFO :: Binance Futures Client successfully initialized
+2023-06-09 00:39:10,311 INFO :: Websocket connected
+2023-06-09 00:39:10,312 INFO :: Binance connection opened
+2023-06-09 00:39:10,313 INFO :: Binance: subscribing to: xrpusdt@bookTicker
+2023-06-09 00:40:14,561 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 00:40:15,456 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-06-09 00:40:15,462 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 00:40:16,262 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1686260415461&signature=c0772db7d21bd8bfbcc4e27e4113ed239eb7e3197e0a927643b11dbbcc679494 HTTP/1.1" 200 None
+2023-06-09 00:40:16,265 INFO :: Binance Futures Client successfully initialized
+2023-06-09 00:40:17,518 INFO :: Websocket connected
+2023-06-09 00:40:17,518 INFO :: Binance connection opened
+2023-06-09 00:40:17,518 INFO :: Binance: subscribing to: xrpusdt@bookTicker
+2023-06-09 00:40:40,893 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 00:40:41,242 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-06-09 00:40:41,248 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 00:40:42,049 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1686260441247&signature=0c38a9327d97c2d7b19e013b1cc03440a206fe642ecc15e399e7c35077d4907e HTTP/1.1" 200 None
+2023-06-09 00:40:42,052 INFO :: Binance Futures Client successfully initialized
+2023-06-09 00:40:43,296 INFO :: Websocket connected
+2023-06-09 00:40:43,296 INFO :: Binance connection opened
+2023-06-09 00:40:43,297 INFO :: Binance: subscribing to: xrpusdt@bookTicker
+2023-06-09 00:41:10,274 ERROR :: error from callback <bound method BinanceClient._on_close of <Binance.BinanceClient object at 0x000001A701B10290>>: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 00:41:10,276 ERROR :: Binance connection error: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 02:21:19,272 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 02:21:20,154 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-06-09 02:21:20,159 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 02:21:20,966 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1686266480157&signature=92b1f5d351829058ad195475b7f1c836b10a47a02b38fabd904fe8974180dba2 HTTP/1.1" 200 None
+2023-06-09 02:21:20,976 INFO :: Binance Futures Testnet Client successfully started
+2023-06-09 02:21:22,169 INFO :: Websocket connected
+2023-06-09 02:21:22,169 INFO :: Binance connection opened
+2023-06-09 02:21:22,169 INFO :: Binance: subscribing to: xrpusdt@bookTicker
+2023-06-09 02:21:34,201 ERROR :: error from callback <bound method BinanceClient._on_close of <Binance.BinanceClient object at 0x0000014ACF6DB490>>: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 02:21:34,201 ERROR :: Binance connection error: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 02:22:04,918 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 02:22:05,714 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-06-09 02:22:05,720 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 02:22:06,055 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1686266525719&signature=efe880128d6706d21dfb994474032c707793c76577627b9b240596a5681a2074 HTTP/1.1" 200 None
+2023-06-09 02:22:06,058 INFO :: Binance Futures Testnet Client successfully started
+2023-06-09 02:22:07,316 INFO :: Websocket connected
+2023-06-09 02:22:07,316 INFO :: Binance connection opened
+2023-06-09 02:22:07,316 INFO :: Binance: subscribing to: xrpusdt@bookTicker
+2023-06-09 02:22:20,899 ERROR :: error from callback <bound method BinanceClient._on_close of <Binance.BinanceClient object at 0x0000028E7FE007D0>>: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 02:22:20,899 ERROR :: Binance connection error: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 02:23:20,523 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 02:23:21,057 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-06-09 02:23:21,063 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 02:23:21,932 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1686266601062&signature=18837331157492399e020f41dcf4a63b8dd1367cd53eeaef1b8f7fe622e2062f HTTP/1.1" 200 None
+2023-06-09 02:23:21,934 INFO :: Binance Futures Testnet Client successfully started
+2023-06-09 02:23:23,904 INFO :: Websocket connected
+2023-06-09 02:23:23,905 INFO :: Binance connection opened
+2023-06-09 02:23:23,905 INFO :: Binance: subscribing to: xrpusdt@bookTicker
+2023-06-09 02:23:54,074 ERROR :: error from callback <bound method BinanceClient._on_close of <Binance.BinanceClient object at 0x000002718C9C0910>>: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 02:23:54,074 ERROR :: Binance connection error: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 02:24:20,964 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 02:24:21,925 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-06-09 02:24:21,929 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 02:24:22,330 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1686266661929&signature=ca032eefcdaa90d4068d4c28b85aeb6ad98f2f0bbb5fe9b13c3f6912d1695b50 HTTP/1.1" 200 None
+2023-06-09 02:24:22,333 INFO :: Binance Futures Testnet Client successfully started
+2023-06-09 02:24:23,702 INFO :: Websocket connected
+2023-06-09 02:24:23,704 INFO :: Binance connection opened
+2023-06-09 02:24:23,704 INFO :: Binance: subscribing to: xrpusdt@bookTicker
+2023-06-09 02:24:31,010 ERROR :: error from callback <bound method BinanceClient._on_close of <Binance.BinanceClient object at 0x000002BB03409190>>: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 02:24:31,010 ERROR :: Binance connection error: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 02:25:07,902 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 02:25:08,779 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-06-09 02:25:08,787 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 02:25:09,588 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1686266708785&signature=b8b7e1e691e75d40fe5e06a19a6a3c460554bb38055eb216e59dd99f1b7dd23f HTTP/1.1" 200 None
+2023-06-09 02:25:09,590 INFO :: Binance Futures Testnet Client successfully started
+2023-06-09 02:25:10,828 INFO :: Websocket connected
+2023-06-09 02:25:10,828 INFO :: Binance connection opened
+2023-06-09 02:25:10,828 INFO :: Binance: subscribing to: xrpusdt@bookTicker
+2023-06-09 02:25:50,056 ERROR :: error from callback <bound method BinanceClient._on_close of <Binance.BinanceClient object at 0x000002577FBF07D0>>: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 02:25:50,056 ERROR :: Binance connection error: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 02:27:08,803 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 02:27:09,718 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-06-09 02:27:09,724 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 02:27:10,527 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1686266829723&signature=35ab668fc22405d856ccecd1449e9b119d543db449fd45d806b697a6057ebb4c HTTP/1.1" 200 None
+2023-06-09 02:27:10,531 INFO :: Binance Futures Testnet Client successfully started
+2023-06-09 02:27:11,773 INFO :: Websocket connected
+2023-06-09 02:27:11,773 INFO :: Binance connection opened
+2023-06-09 02:27:11,773 INFO :: Binance: subscribing to: xrpusdt@bookTicker
+2023-06-09 02:27:21,415 ERROR :: error from callback <bound method BinanceClient._on_close of <Binance.BinanceClient object at 0x000001472E6CB490>>: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 02:27:21,415 ERROR :: Binance connection error: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 02:28:04,872 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 02:28:05,678 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-06-09 02:28:05,684 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 02:28:06,052 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1686266885684&signature=3b56cb697aa765977fbbbbcc0abd639aa7f9cf7f5c1a7bc9370ced2686413ac4 HTTP/1.1" 200 None
+2023-06-09 02:28:06,056 INFO :: Binance Futures Testnet Client successfully started
+2023-06-09 02:28:07,262 INFO :: Websocket connected
+2023-06-09 02:28:07,262 INFO :: Binance connection opened
+2023-06-09 02:28:07,262 INFO :: Binance: subscribing to: xrpusdt@bookTicker
+2023-06-09 02:28:22,094 ERROR :: error from callback <bound method BinanceClient._on_close of <Binance.BinanceClient object at 0x0000024C20650050>>: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 02:28:22,094 ERROR :: Binance connection error: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 02:31:28,518 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 02:31:29,414 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-06-09 02:31:29,418 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 02:31:30,221 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1686267089418&signature=f96b0e3a9453908e95b07b0c3702264bc58914aba1ce5254309a28903f20f8c8 HTTP/1.1" 200 None
+2023-06-09 02:31:30,225 INFO :: Binance Futures Testnet Client successfully started
+2023-06-09 02:31:31,453 INFO :: Websocket connected
+2023-06-09 02:31:31,453 INFO :: Binance connection opened
+2023-06-09 02:31:31,454 INFO :: Binance: subscribing to: xrpusdt@bookTicker
+2023-06-09 02:31:41,361 ERROR :: error from callback <bound method BinanceClient._on_close of <Binance.BinanceClient object at 0x000001D78C6E0050>>: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 02:31:41,361 ERROR :: Binance connection error: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 02:31:55,868 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 02:31:56,669 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-06-09 02:31:56,681 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 02:31:57,475 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1686267116679&signature=e618751548c0683335ef4da74398c425485185c2d33bc6047fafc5bfc12bc1dc HTTP/1.1" 200 None
+2023-06-09 02:31:57,487 INFO :: Binance Futures Testnet Client successfully started
+2023-06-09 02:31:58,676 INFO :: Websocket connected
+2023-06-09 02:31:58,676 INFO :: Binance connection opened
+2023-06-09 02:31:58,676 INFO :: Binance: subscribing to: xrpusdt@bookTicker
+2023-06-09 02:32:04,807 ERROR :: error from callback <bound method BinanceClient._on_close of <Binance.BinanceClient object at 0x000001787F6E0050>>: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 02:32:04,807 ERROR :: Binance connection error: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 02:32:42,569 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 02:32:43,465 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-06-09 02:32:43,479 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 02:32:44,272 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1686267163477&signature=f2b532a37820183b51c073259eff96582f8a7e8de185c05080ea07878fe0fb1e HTTP/1.1" 200 None
+2023-06-09 02:32:44,277 INFO :: Binance Futures Testnet Client successfully started
+2023-06-09 02:32:45,500 INFO :: Websocket connected
+2023-06-09 02:32:45,500 INFO :: Binance connection opened
+2023-06-09 02:32:45,500 INFO :: Binance: subscribing to: xrpusdt@bookTicker
+2023-06-09 02:33:21,707 ERROR :: error from callback <bound method BinanceClient._on_close of <Binance.BinanceClient object at 0x0000028D63BEB490>>: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 02:33:21,709 ERROR :: Binance connection error: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 02:34:05,391 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 02:34:06,288 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-06-09 02:34:06,295 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 02:34:06,631 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1686267246293&signature=1a9ca6a6bd399ad46abc31e18dc553f41265c40374b685805ddb7c1c44746858 HTTP/1.1" 200 None
+2023-06-09 02:34:06,633 INFO :: Binance Futures Testnet Client successfully started
+2023-06-09 02:34:07,916 INFO :: Websocket connected
+2023-06-09 02:34:07,916 INFO :: Binance connection opened
+2023-06-09 02:34:07,918 INFO :: Binance: subscribing to: xrpusdt@bookTicker
+2023-06-09 02:34:11,119 ERROR :: error from callback <bound method BinanceClient._on_close of <Binance.BinanceClient object at 0x000001D9FC70B5D0>>: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 02:34:11,120 ERROR :: Binance connection error: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 02:41:08,368 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 02:41:09,292 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-06-09 02:41:09,312 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 02:41:09,645 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1686267669310&signature=4af147e94ea05f16d682b4e715bb67e9a27d5a7994de9027cb71d42eac61ce87 HTTP/1.1" 200 None
+2023-06-09 02:41:09,647 INFO :: Binance Futures Testnet Client successfully started
+2023-06-09 02:41:10,909 INFO :: Websocket connected
+2023-06-09 02:41:10,909 INFO :: Binance connection opened
+2023-06-09 02:41:10,909 INFO :: Binance: subscribing to: xrpusdt@bookTicker
+2023-06-09 02:41:35,455 ERROR :: error from callback <bound method BinanceClient._on_close of <Binance.BinanceClient object at 0x000001C5FFDF7410>>: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 02:41:35,455 ERROR :: Binance connection error: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 02:43:45,319 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 02:43:46,205 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-06-09 02:43:46,211 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 02:43:47,006 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1686267826209&signature=92d8a86e1f6b9ebaff68e13cdc0e2a0d56b2338365dc407f25b274d1500abd9e HTTP/1.1" 200 None
+2023-06-09 02:43:47,008 INFO :: Binance Futures Testnet Client successfully started
+2023-06-09 02:43:48,229 INFO :: Websocket connected
+2023-06-09 02:43:48,229 INFO :: Binance connection opened
+2023-06-09 02:43:48,229 INFO :: Binance: subscribing to: xrpusdt@bookTicker
+2023-06-09 02:44:13,724 ERROR :: error from callback <bound method BinanceClient._on_close of <Binance.BinanceClient object at 0x000001F960185F10>>: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 02:44:13,724 ERROR :: Binance connection error: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 02:46:04,160 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 02:46:05,064 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-06-09 02:46:05,070 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 02:46:05,403 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1686267965068&signature=ddcaa06ef6cd15a191cd1041e8f942a3112ef90e33f979182786867c78b064ed HTTP/1.1" 200 None
+2023-06-09 02:46:05,407 INFO :: Binance Futures Testnet Client successfully started
+2023-06-09 02:46:06,694 INFO :: Websocket connected
+2023-06-09 02:46:06,694 INFO :: Binance connection opened
+2023-06-09 02:46:06,694 INFO :: Binance: subscribing to: xrpusdt@bookTicker
+2023-06-09 02:46:20,812 ERROR :: error from callback <bound method BinanceClient._on_close of <Binance.BinanceClient object at 0x000001E164372E10>>: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 02:46:20,812 ERROR :: Binance connection error: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 02:48:13,293 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 02:48:13,775 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-06-09 02:48:13,787 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 02:48:14,132 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1686268093787&signature=8266428ed78d283b4431baeb9534392372e87a3feb3fe26d2c33259f35a90d5d HTTP/1.1" 200 None
+2023-06-09 02:48:14,133 INFO :: Binance Futures Testnet Client successfully started
+2023-06-09 02:48:15,344 INFO :: Websocket connected
+2023-06-09 02:48:15,344 INFO :: Binance connection opened
+2023-06-09 02:48:15,344 INFO :: Binance: subscribing to: xrpusdt@bookTicker
+2023-06-09 02:48:25,382 ERROR :: error from callback <bound method BinanceClient._on_close of <Binance.BinanceClient object at 0x000002391F40B490>>: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 02:48:25,382 ERROR :: Binance connection error: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 02:49:36,373 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 02:49:37,272 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-06-09 02:49:37,278 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 02:49:38,079 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1686268177276&signature=f418602f7694f8cd97c8a981effa6da3fca4773f1942c3d588c8cd916c5129e8 HTTP/1.1" 200 None
+2023-06-09 02:49:38,082 INFO :: Binance Futures Testnet Client successfully started
+2023-06-09 02:49:39,304 INFO :: Websocket connected
+2023-06-09 02:49:39,305 INFO :: Binance connection opened
+2023-06-09 02:49:39,305 INFO :: Binance: subscribing to: xrpusdt@bookTicker
+2023-06-09 02:52:36,853 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 02:52:37,748 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-06-09 02:52:37,756 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 02:52:38,595 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1686268357754&signature=010a3fc20d7c9378c917902510f76e87234c27fcf68a8237b8e8df6fa354fe02 HTTP/1.1" 200 None
+2023-06-09 02:52:38,607 INFO :: Binance Futures Testnet Client successfully started
+2023-06-09 02:52:39,843 INFO :: Websocket connected
+2023-06-09 02:52:39,843 INFO :: Binance connection opened
+2023-06-09 02:52:39,843 INFO :: Binance: subscribing to: xrpusdt@bookTicker
+2023-06-09 02:53:01,104 ERROR :: error from callback <bound method BinanceClient._on_close of <Binance.BinanceClient object at 0x000001DCA32100D0>>: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 02:53:01,104 ERROR :: Binance connection error: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 02:54:23,120 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 02:54:24,033 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-06-09 02:54:24,038 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 02:54:24,840 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1686268464037&signature=1f2638fe03bc73345da3876da0fe88712a368d59f9769a587609ad0e58d91e71 HTTP/1.1" 200 None
+2023-06-09 02:54:24,842 INFO :: Binance Futures Testnet Client successfully started
+2023-06-09 02:54:26,084 INFO :: Websocket connected
+2023-06-09 02:54:26,084 INFO :: Binance connection opened
+2023-06-09 02:54:26,084 INFO :: Binance: subscribing to: xrpusdt@bookTicker
+2023-06-09 02:54:30,880 ERROR :: error from callback <bound method BinanceClient._on_close of <Binance.BinanceClient object at 0x000001E4B6165590>>: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 02:54:30,880 ERROR :: Binance connection error: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 02:55:04,015 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 02:55:04,813 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-06-09 02:55:04,819 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 02:55:05,619 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1686268504817&signature=6ecf8ccdd7ce0c5e164403d72b2d90bd792d241a07067a68d3a3ff193ce49297 HTTP/1.1" 200 None
+2023-06-09 02:55:05,622 INFO :: Binance Futures Testnet Client successfully started
+2023-06-09 02:55:06,837 INFO :: Websocket connected
+2023-06-09 02:55:06,837 INFO :: Binance connection opened
+2023-06-09 02:55:06,837 INFO :: Binance: subscribing to: xrpusdt@bookTicker
+2023-06-09 02:55:14,313 ERROR :: error from callback <bound method BinanceClient._on_close of <Binance.BinanceClient object at 0x0000019E4C532F90>>: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 02:55:14,314 ERROR :: Binance connection error: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 02:57:38,111 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 02:57:39,018 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-06-09 02:57:39,024 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 02:57:39,826 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1686268659023&signature=d6b7d164093ce52631d41e8ed86ba1a3e2f6d34e524630199752958041ea621d HTTP/1.1" 200 None
+2023-06-09 02:57:39,833 INFO :: Binance Futures Testnet Client successfully started
+2023-06-09 02:57:41,079 INFO :: Websocket connected
+2023-06-09 02:57:41,079 INFO :: Binance connection opened
+2023-06-09 02:57:41,079 INFO :: Binance: subscribing to: xrpusdt@bookTicker
+2023-06-09 02:58:08,172 ERROR :: error from callback <bound method BinanceClient._on_close of <Binance.BinanceClient object at 0x000001FC76510250>>: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 02:58:08,172 ERROR :: Binance connection error: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 02:59:23,134 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 02:59:24,032 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-06-09 02:59:24,052 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 02:59:24,851 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1686268764048&signature=a36039b28fe8dbc69abbbf8bd3c01ad4eb7a63443b6668fddb294ffac2491346 HTTP/1.1" 200 None
+2023-06-09 02:59:24,862 INFO :: Binance Futures Testnet Client successfully started
+2023-06-09 02:59:26,128 INFO :: Websocket connected
+2023-06-09 02:59:26,128 INFO :: Binance connection opened
+2023-06-09 02:59:26,130 INFO :: Binance: subscribing to: xrpusdt@bookTicker
+2023-06-09 02:59:29,460 ERROR :: error from callback <bound method BinanceClient._on_close of <Binance.BinanceClient object at 0x0000025C7414B490>>: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 02:59:29,460 ERROR :: Binance connection error: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 03:00:03,279 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 03:00:04,074 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-06-09 03:00:04,080 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 03:00:04,879 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1686268804079&signature=3210082cb5fdc84285f460f0680da70354bd5ad21814998286623338be4d0c58 HTTP/1.1" 200 None
+2023-06-09 03:00:04,882 INFO :: Binance Futures Testnet Client successfully started
+2023-06-09 03:00:06,109 INFO :: Websocket connected
+2023-06-09 03:00:06,109 INFO :: Binance connection opened
+2023-06-09 03:00:06,109 INFO :: Binance: subscribing to: xrpusdt@bookTicker
+2023-06-09 03:00:07,902 ERROR :: error from callback <bound method BinanceClient._on_close of <Binance.BinanceClient object at 0x00000210E28CD410>>: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 03:00:07,902 ERROR :: Binance connection error: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 03:00:44,415 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 03:00:45,330 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-06-09 03:00:45,341 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 03:00:46,139 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1686268845340&signature=bca3d0ce0002815ede53dd0d5a43eda400ee9d19c98a22a455c050203493922b HTTP/1.1" 200 None
+2023-06-09 03:00:46,141 INFO :: Binance Futures Testnet Client successfully started
+2023-06-09 03:00:47,411 INFO :: Websocket connected
+2023-06-09 03:00:47,414 INFO :: Binance connection opened
+2023-06-09 03:00:47,414 INFO :: Binance: subscribing to: xrpusdt@bookTicker
+2023-06-09 03:00:50,709 ERROR :: error from callback <bound method BinanceClient._on_close of <Binance.BinanceClient object at 0x0000026E3D31D5D0>>: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 03:00:50,709 ERROR :: Binance connection error: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 03:01:28,949 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 03:01:29,855 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-06-09 03:01:29,863 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 03:01:30,666 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1686268889863&signature=efc435c96391b65824aaa340da41c5ca4d6ab6f6c1e9de6274d2499b96b420c8 HTTP/1.1" 200 None
+2023-06-09 03:01:30,672 INFO :: Binance Futures Testnet Client successfully started
+2023-06-09 03:01:31,876 INFO :: Websocket connected
+2023-06-09 03:01:31,876 INFO :: Binance connection opened
+2023-06-09 03:01:31,876 INFO :: Binance: subscribing to: xrpusdt@bookTicker
+2023-06-09 03:01:35,152 ERROR :: error from callback <bound method BinanceClient._on_close of <Binance.BinanceClient object at 0x0000024FD04F2250>>: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 03:01:35,152 ERROR :: Binance connection error: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 03:01:47,395 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 03:01:48,200 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-06-09 03:01:48,204 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 03:01:49,003 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1686268908204&signature=0f5ebaffbecdd79198e4253659e47a32262b149da24715eb808fa1672196ff37 HTTP/1.1" 200 None
+2023-06-09 03:01:49,007 INFO :: Binance Futures Testnet Client successfully started
+2023-06-09 03:01:50,267 INFO :: Websocket connected
+2023-06-09 03:01:50,267 INFO :: Binance connection opened
+2023-06-09 03:01:50,267 INFO :: Binance: subscribing to: xrpusdt@bookTicker
+2023-06-09 03:01:52,968 ERROR :: error from callback <bound method BinanceClient._on_close of <Binance.BinanceClient object at 0x000001AC4CABE450>>: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 03:01:52,968 ERROR :: Binance connection error: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 03:02:47,519 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 03:02:48,444 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-06-09 03:02:48,452 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 03:02:49,252 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1686268968452&signature=89bb1b335b18630f50bd641f4915f2a4698c355c944d295f88d2f563d193236e HTTP/1.1" 200 None
+2023-06-09 03:02:49,255 INFO :: Binance Futures Testnet Client successfully started
+2023-06-09 03:02:50,533 INFO :: Websocket connected
+2023-06-09 03:02:50,533 INFO :: Binance connection opened
+2023-06-09 03:02:50,533 INFO :: Binance: subscribing to: xrpusdt@bookTicker
+2023-06-09 03:04:21,800 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 03:04:22,731 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-06-09 03:04:22,736 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 03:04:23,069 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1686269062736&signature=d7785e559fa107e9d3a5087e22a717e30e9fa23d47d93a22e9c2ec4584972e97 HTTP/1.1" 200 None
+2023-06-09 03:04:23,071 INFO :: Binance Futures Testnet Client successfully started
+2023-06-09 03:04:24,329 INFO :: Websocket connected
+2023-06-09 03:04:24,329 INFO :: Binance connection opened
+2023-06-09 03:04:24,331 INFO :: Binance: subscribing to: xrpusdt@bookTicker
+2023-06-09 03:04:32,125 ERROR :: error from callback <bound method BinanceClient._on_close of <Binance.BinanceClient object at 0x000001FF4C92B910>>: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 03:04:32,125 ERROR :: Binance connection error: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 03:04:50,009 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 03:04:50,817 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-06-09 03:04:50,822 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 03:04:51,157 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1686269090822&signature=fe17f34a7272ee1c0112329f8336339c5609bf89bfa81a242b552066bc4e0574 HTTP/1.1" 200 None
+2023-06-09 03:04:51,169 INFO :: Binance Futures Testnet Client successfully started
+2023-06-09 03:04:52,361 INFO :: Websocket connected
+2023-06-09 03:04:52,361 INFO :: Binance connection opened
+2023-06-09 03:04:52,361 INFO :: Binance: subscribing to: xrpusdt@bookTicker
+2023-06-09 03:04:54,656 ERROR :: error from callback <bound method BinanceClient._on_close of <Binance.BinanceClient object at 0x000001E03A790250>>: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 03:04:54,658 ERROR :: Binance connection error: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 03:05:31,366 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 03:05:32,284 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-06-09 03:05:32,294 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 03:05:33,097 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1686269132292&signature=9af7e2282b6aa4da923b3caf2cc3b5d19ea35e831aaa90f09a2051c07962758e HTTP/1.1" 200 None
+2023-06-09 03:05:33,103 INFO :: Binance Futures Testnet Client successfully started
+2023-06-09 03:05:34,336 INFO :: Websocket connected
+2023-06-09 03:05:34,336 INFO :: Binance connection opened
+2023-06-09 03:05:34,336 INFO :: Binance: subscribing to: xrpusdt@bookTicker
+2023-06-09 03:05:39,508 ERROR :: error from callback <bound method BinanceClient._on_close of <Binance.BinanceClient object at 0x0000021579E80B90>>: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 03:05:39,510 ERROR :: Binance connection error: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 03:07:06,582 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 03:07:07,516 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-06-09 03:07:07,522 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 03:07:08,330 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1686269227522&signature=34aa32c3a8bc3db0c5ae010b6b172a992cdbe5517127253eb156d23fec0f2bff HTTP/1.1" 200 None
+2023-06-09 03:07:08,333 INFO :: Binance Futures Testnet Client successfully started
+2023-06-09 03:07:09,558 INFO :: Websocket connected
+2023-06-09 03:07:09,558 INFO :: Binance connection opened
+2023-06-09 03:07:09,558 INFO :: Binance: subscribing to: xrpusdt@bookTicker
+2023-06-09 03:07:14,911 ERROR :: error from callback <bound method BinanceClient._on_close of <Binance.BinanceClient object at 0x000001E1E9D6E450>>: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 03:07:14,911 ERROR :: Binance connection error: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 03:07:19,645 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 03:07:19,977 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-06-09 03:07:19,983 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-06-09 03:07:20,781 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1686269239982&signature=f81e3646fdcb95004305d41ad4bdeee634dfa96c7b57414eada03f40f7123f22 HTTP/1.1" 200 None
+2023-06-09 03:07:20,783 INFO :: Binance Futures Testnet Client successfully started
+2023-06-09 03:07:22,037 INFO :: Websocket connected
+2023-06-09 03:07:22,037 INFO :: Binance connection opened
+2023-06-09 03:07:22,039 INFO :: Binance: subscribing to: xrpusdt@bookTicker
+2023-06-09 03:07:30,798 ERROR :: error from callback <bound method BinanceClient._on_close of <Binance.BinanceClient object at 0x0000017C69140B90>>: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-06-09 03:07:30,798 ERROR :: Binance connection error: BinanceClient._on_close() takes 2 positional arguments but 4 were given
